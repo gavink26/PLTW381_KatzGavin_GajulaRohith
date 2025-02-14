@@ -9,7 +9,7 @@
  *   as hidden (face down)
  *   as matched (no long in play)
  * 
- * @Gavin Katz PLTW
+ * @Gavin Katz & Rohith Gajula PLTW
  * @version 2.0
  */
 

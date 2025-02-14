@@ -1,6 +1,6 @@
 /*
  * Activity 3.8.1
- * Gavin Katz
+ * Gavin Katz & Rohith Gajula
  */
 public class ColumnMajorOrder
 {
